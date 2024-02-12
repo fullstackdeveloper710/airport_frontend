@@ -1,0 +1,1 @@
+export { GodList } from './GodList'
